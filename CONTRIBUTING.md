@@ -1,2 +1,0 @@
-## test
-Contributing.md test
